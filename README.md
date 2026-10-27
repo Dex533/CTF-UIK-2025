@@ -12,16 +12,11 @@ A collection of Crypto and OSINT CTF challenges from the **Spark Matrix** storyl
 | Crypto | 04 - The Triple Threat | Easy |
 | Crypto | 05 - The Pixel Whisperer | Easy |
 | Crypto | 06 - The Chess Master's Gambit | Medium |
-| Crypto | 07 - The Cascade Conundrum | Medium |
-| Crypto | 08 - Rabin's Revenge | Medium |
-| Crypto | 09 - The Column Shuffler | Medium |
 | OSINT  | 01 - The Call to Adventure | Easy |
 | OSINT  | 02 - The Shadow of a Profile | Easy |
 | OSINT  | 03 - The Past That Rewrites | Medium |
 | OSINT  | 04 - The Three Words in the Void | Medium |
 | OSINT  | 05 - The Archive Inside the Archive | Hard |
-| OSINT  | 06 - The Files That Whisper | Hard |
-| OSINT  | 07 - Moros Went Upstream | Hard |
 
 ##  Storyline
 
