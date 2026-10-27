@@ -1,0 +1,26 @@
+name: "The Three Words in the Void"
+author: "Hunter"
+category: OSINT  
+description: |-
+  A forgotten photograph appears in one of the old captures. A simple skyline. Harmless.
+
+Its deeper layer holds something stranger: three fragments, scattered and subtle, almost invisible.
+Collect them. Assemble them.
+
+The fragments form a code pointing to a real-world location Moros visited shortly before he vanished.
+A place where digital and physical realities intersect.
+ flag format{Name_of_the_place_u_founded}
+  
+
+value: 500
+type: standard
+flags:
+  - "SparkUIK{Sydney_opera_House}"
+
+files:
+  - handout/skyline.jpg
+
+tags:
+  - osint
+  - medium
+state: Dynamic

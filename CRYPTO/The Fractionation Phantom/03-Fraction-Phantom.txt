@@ -1,0 +1,27 @@
+name: " The Fractionation Phantom"
+author: "Hunter"
+category: Crypto
+description: |-
+   This message has been split, scrambled, and squared away. 
+   Can you reassemble the pieces? 
+   
+   LokhbOYR{F1Y1c_y1tm3e_15_p1wp4pg1m_d1fp3g}
+
+  **author**: Hunter
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 10
+  minimum: 10
+flags:
+  - Spark{KAIROS_TIMELOOP_26}
+
+files:
+  - handout/chall.py
+#requirements:
+  #- ""
+tags:
+  - easy
+state: visible
+version: "0.1"

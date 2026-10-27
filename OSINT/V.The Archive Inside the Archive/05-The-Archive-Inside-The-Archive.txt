@@ -1,0 +1,24 @@
+name: "The Archive Inside the Archive"
+author: "Hunter"
+category: OSINT
+description: |-
+  At the location hinted by the three-word code, investigators discover a sealed compressed file. Opening it is impossible without a strange key hidden within its structure.
+
+Moros encoded a secret inside a joke, leaving only those clever—or persistent—enough to retrieve it.
+Once decoded, the package begins to reveal its whispers.
+
+  Flag format: Spark{contradiction_description}
+
+value: 300
+type: standard
+flags:
+  - "Spark{reality_contradiction}"
+
+files:
+  - handout/street_view_comparison.zip
+
+tags:
+  - osint
+  - imagery-analysis
+  - hard
+state: visible

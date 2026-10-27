@@ -1,0 +1,26 @@
+name: "The Chrono-Logical Cipher"
+author: "Hunter"
+category: Crypto
+description: |-
+  You found an encrypted message from the American Revolution era. 
+  The date 07/04/1776 holds the key to unlocking it. 
+  Figure out what Americans call this day and use that word to decrypt the message "KdwncIEG{HdEk_fQkh_Pz3_xwu1jf1jc}"
+  
+    **author**: Hunter
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 10
+  minimum: 10
+flags:
+  - SparkUIK{ThIs_jUst_Th3_beg1nn1ng}
+
+files:
+  - handout/chall.py
+#requirements:
+  #- ""
+tags:
+  - easy
+state: visible
+version: "0.1"

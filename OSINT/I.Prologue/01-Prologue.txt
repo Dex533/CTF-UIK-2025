@@ -1,0 +1,30 @@
+name: "THE CALL TO ADVENTURE"
+author: "Hunter"
+category: OSINT
+description: |-
+  Moros spoke about digital worlds the way mystics speak about dreams. He insisted the internet was only the visible layer of a deeper system he called The Consensus.
+
+His final message was short, frantic, and unlike him:
+"I found the source code. It’s not a program. It’s a place."
+
+Seconds later: disappearance. Accounts collapsing. Posts dissolving.
+
+Only a stray training file survived—containing an accidental placeholder flag:
+
+
+A glitch in the purge. Proof that something—or someone—was erasing him. The operation begins.
+
+  SparkUIK{fake_flag}
+
+value: 500
+type: standard
+flags:
+  - "SparkUIK{fake_flag}"
+
+#files:
+  #- handout/
+
+tags:
+  - osint
+  - easy
+state: visible

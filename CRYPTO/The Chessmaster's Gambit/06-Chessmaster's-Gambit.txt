@@ -1,0 +1,27 @@
+name: " The Chess master's Gambit"
+author: "Hunter"
+category: Crypto
+description: |-
+   The knight moves in mysterious ways, carrying secrets across this cryptographic chessboard but 1st you need to came down 64 steps
+  
+  YzRlY3BfNGNfcnQzbTMzaGh0MWg=
+
+  **author**: Hunter
+value: 750
+type: dynamic
+extra:
+  initial: 750
+  decay: 10
+  minimum: 10
+flags:
+  - SparkUIK{ch43cm4te_th3_c1ph3r}
+
+files:
+  - handout/chall.py
+  - handout/ciphertext.txt
+#requirements:
+  #- ""
+tags:
+  - medium
+state: visible
+version: "0.1"

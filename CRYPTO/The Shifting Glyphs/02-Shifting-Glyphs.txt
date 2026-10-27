@@ -1,0 +1,26 @@
+name: " The Shifting Glyphs"
+author: "Hunter"
+category: Crypto
+description: |-
+  These numbers look like ASCII codes, but when converted they're still gibberish. 
+
+72 107 122 105 112 70 82 80 123 53 115 49 117 103 49 109 116 95 49 53 95 117 102 109 125
+  
+    **author**: Hunter
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 10
+  minimum: 10
+flags:
+  - Spark{KAIROS_TIMELOOP_26}
+
+files:
+  - handout/chall.py
+#requirements:
+  #- ""
+tags:
+  - easy
+state: visible
+version: "0.1"

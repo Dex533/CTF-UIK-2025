@@ -1,0 +1,37 @@
+name: "The Shadow of a Profile" 
+author: "Hunter"
+category: OSINT
+description: |-
+  Moros’ online traces scatter like broken glass. Most are counterfeit—fresh accounts carrying his old names but none of his voice. They feel artificially generated, built to obscure the truth.
+
+Yet, hidden among them, a single genuine profile survives: old, dusty, overlooked. Its bio contains a cryptic sentence untouched for years:
+"The Consensus hides in reflections."
+
+Not a warning about mirrors.
+A warning about how truth disguises itself.
+The first breadcrumb.
+
+@0xmor_os
+
+  
+
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 10
+  minimum: 10
+
+flags:
+  - "SparkUIK{r3fl3ct10n5_r3v34l_truth}"
+
+#files:
+
+tags:
+  - osint
+  -social media investigation
+
+requirement:
+   -"this task can't be visible till the previous one is solved"
+
+state: Dynamic

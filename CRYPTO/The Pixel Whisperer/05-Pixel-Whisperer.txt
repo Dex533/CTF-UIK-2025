@@ -1,0 +1,25 @@
+name: " The Pixel Whisperer"
+author: "Hunter"
+category: Crypto
+description: |-
+   This message has been split, scrambled, and squared away. 
+   Can you reassemble the pieces? 
+
+  **author**: Hunter
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 10
+  minimum: 10
+flags:
+  - SparkUIK{Th3_Tr1pl3_Thr3a4t_h1h1}
+
+files:
+  - handout/ciphertext.txt
+#requirements:
+  #- ""
+tags:
+  - easy
+state: visible
+version: "0.1"

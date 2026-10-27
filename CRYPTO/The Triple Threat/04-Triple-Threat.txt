@@ -1,0 +1,26 @@
+name: " The Triple Threat"
+author: "Hunter"
+category: Crypto
+description: |-
+   Three times the trouble! This cipher shifts in multiple dimensions simultaneously. 
+  
+  LwrvoNPB{Xa3_Xv1wc3_Moi3e4a_l1a1}
+
+  **author**: Hunter
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 10
+  minimum: 10
+flags:
+  - SparkUIK{Th3_Tr1pl3_Thr3a4t_h1h1}
+
+files:
+  - handout/chall.py
+#requirements:
+  #- ""
+tags:
+  - easy
+state: visible
+version: "0.1"
